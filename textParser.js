@@ -11,9 +11,10 @@
     stringArray: [],
     stringObjectArray: [],
 
+    //command words - needs expanding
     commandWords: ["north", "east", "south", "west", "up", "down", "n", "e", "s", "w", "u", "d", "examine", 
     "look", "open", "inventory", "i", "use", "combine", "get", "take", "drop", "pick up", "eli", "help", "save", "load"],
-    // It needs to store filler words - to remove
+    // It needs to store filler words - to remove - needs expanding
     fillerWords: ["a", "and", "are", "as", "at", "go", "it", "or", "the", "then", "to", "with"],
     
     // Helper Functions
